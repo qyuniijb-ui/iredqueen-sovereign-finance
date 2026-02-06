@@ -1,0 +1,10 @@
+{
+  "name": "iredqueen-sovereign-finance",
+  "version": "1.0.0",
+  "private": true,
+  "workspaces": ["apps/*", "packages/*"],
+  "scripts": {
+    "start": "echo Starting iREDQueen...",
+    "test": "echo Running tests..."
+  }
+}
